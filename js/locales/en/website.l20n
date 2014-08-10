@@ -1,66 +1,94 @@
 <html 
-  lang: "en">
+  lang: "ru">
 
-<summary "Abstract">
+<summary "Curriculum Vitae">
 
 <name_title "Name:">
-<name_value "Anton Nemtsev">
+<name_value "Valentine Radchuk">
 
-<bdate_title "Date of Birth:">
-<bdate_value "May 21, 1983">
+<bdate_title "Birth date:">
+<bdate_value "16 January 1984">
 
 <citizenship_title "Citizenship:">
 <citizenship_value "Ukraine">
 
 <lang_title "Languages:">
-<lang_value "Russian, Ukrainian, English">
+<lang_value "Ukrainian, Russian, English, German">
 
 <status_title "Status:">
-<status_value "Available for hire">
+<status_value "Employed">
 
-<fact_1 "Freelance developer from 2000 till now">
-<fact_2 "Full-stack developer">
-<fact_3 "Representative of <a>Web Standards</a> community in Ukraine">
-<fact_4 "Founder and chief-editor of <a>Frontender Magazine</a>">
-<fact_5 "Speaker at local and international web development conferences">
-<fact_6 "<a>UA Web Challenge</a> expert">
+<fact_1 "Experience in software development - since 2007 year.">
+<fact_2 "Have experience in full stack of .NET technologies to build desktop and backend applications.">
+<fact_3 "Have experience managing group of developers.">
+<fact_4 "Have experience reading learning trainings for distributed international team.">
+<fact_5 "Have experience in communication with customer and formalizing requirements.">
 
 <contacts "Contacts">
 
-<tel "Phone (UA):">
+<tel "Mobile phone (UA):">
 <web "Site:">
 
 <education "Education">
 
-<place_1 "Physical &amp; Mathematical School">
-<place_2 "National Technical University of Ukraine 'Kyiv Polytechnic Institute’, Post-Graduate Study">
+<place_1 "National Technical University of Ukraine «Kyiv Polytechnic Institute»">
 
-<grade_1 "Specialist degree in development of electronic devices">
-<grade_2 "Master's degree in computer science">
+<grade_1 "Bachelor degree in area of computer engineering (diploma with honour)">
+<grade_2 "Magister degree in area of computer engineering (diploma with honour)">
 
 <expirience "Experience">
+<used_technologies "Used technologies">
 
-<expirience_1 """
-  <p>Projects development for advertising agencies R.A.M. and <a>Paradigm Consulting Group</a></p>
-  <p>Working with such brands as Pall Mall, Kent, Camel, Lays, Kinder, DreamWorks, MTv, Indesit, Samsung etc.</p>
-  <p>Providing services as frontend-developer, flash-developer (drawing, animaton, ActionScript), designer.</p>
-""">
+<exp_5_title 'Senior .NET developer in company <a href="http://zorallabs.com/">Zoral Labs</a>'>
+<exp_5_descr "Development of back-end part for site intended for automatic granting of loans. Development for New Zealand company." >
+<used_tech_content_5 "<ul>
+                          <li><b>Instruments:</b> C#, MS SQL 2012, RabbitMQ</li>
+                          <li><b>Frameworks:</b> NEventsStore, MassTransit, NLog, Magnum</li>
+                          <li><b>Used patterns:</b> CQRS и Event Sourcing</li>
+                          <li><b>Source control:</b> GIT </li>
+                      </ul>">
 
-<expirience_2 "Development of <a>http://www.pokeroff.ru/</a>">
+<exp_4_title 'Technical lead of .NET developers group in <a href="http://www.ubs.com/">UBS</a> offshore development center in company <a href="http://www.luxoft.com/">Luxoft</a>'>
+<exp_4_descr "Optimization risk calculation engine for derivative financial instruments.">
+<used_tech_content_4 "<ul>
+                          <li><b>Instruments:</b> C#, MS SQL 2008, MS Excel</li>
+                          <li><b>Frameworks:</b> Log4net, WCF, nUnit, MS Test, custom internal frameworks</li>
+                          <li><b>Source control:</b> SVN </li>
+                          <li><b>Other:</b> XML-XSD-XPath, HTML, JavaScript</li>
+                      </ul>">
 
-<expirience_3 "Working with <a>Evil Martians</a> studio. Among projects are <a>http://groupon.ru/</a> and <a>http://i-lift.tv/</a>">
+<exp_3_title 'senior .NET developer in in <a href="http://www.ubs.com/">UBS</a> offshore development center in company <a href="http://www.luxoft.com/">Luxoft</a>'>
+<exp_3_descr "Optimization risk calculation engine for derivative financial instruments.">
+<used_tech_content_3 "<ul>
+                        <li><b>Instruments:</b> C#, MS SQL 2008, MS Excel</li>
+                        <li><b>Frameworks:</b> Log4net, WCF, nUnit, MS Test, custom internal frameworks</li>
+                        <li><b>Source control:</b> SVN </li>
+                        <li><b>Other:</b> XML-XSD-XPath, MS Project </li>
+                    </ul>">
 
-<expirience_4 "Development of <a>http://zn.ua/</a> and http://znaki.fm/">
+<exp_2_title '.NET developer in company <a href="http://www.globallogic.com.ua/">GlobalLogic Ukraine'>
+<exp_2_descr 'Optimizing billing system for company <a href="http://www.voltari.com/" class=link-inside>Voltari (Motricity)'>
+<used_tech_content_2 "<ul>
+                          <li><b>Instruments:</b> C#, MSMQ</li>
+                          <li><b>Source control:</b> SVN </li>
+                      </ul>">
 
-<expirience_5 "Development of Giftofoni">
+<exp_1_title '.NET developer in company <a href="http://www1.vimas.com/">Vimas
+                                  technologies</a>'>
+<exp_1_descr 'Development component for filling content for product configurator for one of the departments of company <a
+                                      href="http://www.spx.com/en/" class=link-inside>SPX</a>'>
+<used_tech_content_1 " <ul>
+                           <li><b>Instruments:</b> C#, Oracle</li>
+                           <li><b>Frameworks:</b> DevExpress</li>
+                           <li><b>source control:</b> MS TFS </li>
+                       </ul>">
 
 <skills "Skills">
 
-<markup "Markup">
-<scripts "Scripting">
-<styles "Styles">
-<automatization "Automatization">
-<additional "Additional">
-<bd "Database">
-<serverside "Backend">
-
+<markup "Разметка">
+<scripts "Скрипты">
+<styles "Стили">
+<automatization "Автоматизация">
+<additional "Дополнительно">
+<bd "Базы данных">
+<serverside "Бекенд">

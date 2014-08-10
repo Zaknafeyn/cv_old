@@ -33,8 +33,8 @@
 
 <place_1 "Национальный Технический Университет Украины «Киевский Политехнический Институт»">
 
-<grade_1 "Степень бакалавра в области разработки электронных устройств (диплом с отличием)">
-<grade_2 "Степень магистра информационных технологий (диплом с отличием)">
+<grade_1 "Степень бакалавра в области компьютерной инженерии (диплом с отличием)">
+<grade_2 "Степень магистра компьютерной инженерии (диплом с отличием)">
 
 <expirience "Опыт">
 <used_technologies "Используемые технологии">
@@ -55,7 +55,7 @@
                           <li><b>Инструменты:</b> C#, MS SQL 2008, MS Excel</li>
                           <li><b>Фреймворки:</b> Log4net, WCF, nUnit, MS Test, custom internal frameworks</li>
                           <li><b>Контроль версий:</b> SVN </li>
-                          <li><b>Другое:</b> XML\XSD\XPath, HTML, JavaScript</li>
+                          <li><b>Другое:</b> XML-XSD-XPath, HTML, JavaScript</li>
                       </ul>">
 
 <exp_3_title 'Старший .NET разработчик в центре разработки <a href="http://www.ubs.com/"> UBS</a> в компании <a
@@ -65,7 +65,7 @@
                         <li><b>Инструменты:</b> C#, MS SQL 2008, MS Excel</li>
                         <li><b>Фреймворки:</b> Log4net, WCF, nUnit, MS Test, custom internal frameworks</li>
                         <li><b>Контроль версий:</b> SVN </li>
-                        <li><b>Другое:</b> XML\XSD\XPath, MS Project </li>
+                        <li><b>Другое:</b> XML-XSD-XPath, MS Project </li>
                     </ul>">
 
 <exp_2_title '.NET разработчик в компании <a href="http://www.globallogic.com.ua/">GlobalLogic Украина'>
