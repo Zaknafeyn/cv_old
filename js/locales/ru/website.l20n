@@ -49,7 +49,7 @@
 
 <expirience_3 "Работа со студией <a>Evil Martians</a> в качестве фронтенд-разработчика и участие в разработке таких проектов, как <a>http://groupon.ru/</a> и <a>http://i-lift.tv/</a>">
 
-<exp_5_title "Разработчик .NET в компании <a href="http://zorallabs.com/">Zoral Labs</a>">
+<exp_5_title 'Разработчик .NET в компании <a href="http://zorallabs.com/">Zoral Labs</a>'>
 <exp_5_descr "Разработка back-end части сайта для принятия решения о выдаче кредита. Разработка для новозеландской
                                   финансовой компании." >
 <used_tech_content_5 "<ul>
@@ -60,8 +60,8 @@
                                           </ul>">
 
 <exp_4_title "Технический руководитель группы .NET разработчиков в центре разработки <a href="http://www.ubs.com/"> UBS</a> в компании <a href="http://www.luxoft.com/">Luxoft</a>">
-<exp_5_descr "Работа над проектом по оптимизации работы системы рассчета рисков по деривативным ценным бумагам.">
-<used_tech_content_5 "<ul>
+<exp_4_descr "Работа над проектом по оптимизации работы системы рассчета рисков по деривативным ценным бумагам.">
+<used_tech_content_4 "<ul>
                         <li><b>Инструменты:</b> C#, MS SQL 2008, MS Excel</li>
                         <li><b>Фреймворки:</b> Log4net, WCF, nUnit, MS Test, custom internal frameworks</li>
                         <li><b>Контроль версий:</b> SVN </li>
