@@ -87,10 +87,20 @@
 
 <skills "Навыки">
 
-<markup "Разметка">
-<scripts "Скрипты">
+<theory "Теория">
+<languages "Языки">
+<frameworks_1 "МС Фреймворки">
+<bd "Базы данных">
+<testframeworks "Юнит-тестирование">
+<frameworks_2 "Фреймворки">
+<additional_1 "Дополнительно">
+
+<methodology "Методологии">
+<instruments "Инструменты">
+<additional_2 "Дополнительно">
+
 <styles "Стили">
 <automatization "Автоматизация">
 <additional "Дополнительно">
-<bd "Базы данных">
+
 <serverside "Бекенд">

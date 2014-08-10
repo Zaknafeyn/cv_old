@@ -85,10 +85,14 @@
 
 <skills "Skills">
 
-<markup "Разметка">
-<scripts "Скрипты">
-<styles "Стили">
-<automatization "Автоматизация">
-<additional "Дополнительно">
-<bd "Базы данных">
-<serverside "Бекенд">
+<theory "Theory">
+<languages "Languages">
+<frameworks_1 "MS Frameworks">
+<bd "Databases">
+<testframeworks "Unit-testing">
+<frameworks_2 "Frameworks">
+<additional_1 "Additional">
+
+<methodology "Methodology">
+<instruments "Instruments">
+<additional_2 "Additional">
