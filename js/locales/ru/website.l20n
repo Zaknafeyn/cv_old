@@ -90,7 +90,7 @@
 <theory "Теория">
 <languages "Языки">
 <frameworks_1 "МС Фреймворки">
-<bd "Базы данных">
+<db "Базы данных">
 <testframeworks "Юнит-тестирование">
 <frameworks_2 "Фреймворки">
 <additional_1 "Дополнительно">
@@ -102,5 +102,3 @@
 <styles "Стили">
 <automatization "Автоматизация">
 <additional "Дополнительно">
-
-<serverside "Бекенд">
