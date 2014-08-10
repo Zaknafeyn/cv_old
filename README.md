@@ -1,5 +1,5 @@
 cv-1
 ====
 
-Curriculum vitae
+Curriculum vitae - http://vradchuk.info/
 
