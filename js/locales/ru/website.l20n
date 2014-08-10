@@ -39,12 +39,6 @@
 <expirience "Опыт">
 <used_technologies "Используемые технологии">
 
-<expirience_1 """
-  <p>Разработка проектов для рекламных агентств R.A.M. и <a>Paradigm Consulting Group</a></p>
-  <p>Работа с брендами Pall Mall, Kent, Camel, Lays, Kinder, Nestle, DreamWorks, MTv, Indesit, Samsung и многими другими.</p>
-  <p>В проектах исполняю роль фронтенд-разработчика и flash-разработчика, включая дизайн, анимацию и  программирование на action script.</p>
-""">
-
 <exp_5_title 'Разработчик .NET в компании <a href="http://zorallabs.com/">Zoral Labs</a>'>
 <exp_5_descr "Разработка back-end части сайта для принятия решения о выдаче кредита. Разработка для новозеландской
                                   финансовой компании." >
@@ -55,7 +49,7 @@
                           <li><b>Контроль версий:</b> GIT </li>
                       </ul>">
 
-<exp_4_title "Технический руководитель группы .NET разработчиков в центре разработки <a href="http://www.ubs.com/"> UBS</a> в компании <a href="http://www.luxoft.com/">Luxoft</a>">
+<exp_4_title 'Технический руководитель группы .NET разработчиков в центре разработки <a href="http://www.ubs.com/"> UBS</a> в компании <a href="http://www.luxoft.com/">Luxoft</a>'>
 <exp_4_descr "Работа над проектом по оптимизации работы системы рассчета рисков по деривативным ценным бумагам.">
 <used_tech_content_4 "<ul>
                           <li><b>Инструменты:</b> C#, MS SQL 2008, MS Excel</li>
@@ -64,8 +58,8 @@
                           <li><b>Другое:</b> XML\XSD\XPath, HTML, JavaScript</li>
                       </ul>">
 
-<exp_3_title "Старший .NET разработчик в центре разработки <a href="http://www.ubs.com/"> UBS</a> в компании <a
-                                      href="http://www.luxoft.com/">Luxoft</a>">
+<exp_3_title 'Старший .NET разработчик в центре разработки <a href="http://www.ubs.com/"> UBS</a> в компании <a
+                                      href="http://www.luxoft.com/">Luxoft</a>'>
 <exp_3_descr "Работа над проектом по оптимизации работы системы рассчета рисков по деривативным ценным бумагам.">
 <used_tech_content_3 "<ul>
                         <li><b>Инструменты:</b> C#, MS SQL 2008, MS Excel</li>
@@ -74,16 +68,22 @@
                         <li><b>Другое:</b> XML\XSD\XPath, MS Project </li>
                     </ul>">
 
-<exp_2_title ".NET разработчик в компании <a href="http://www.globallogic.com.ua/">GlobalLogic Украина">
-<exp_2_descr "Оптимизация биллинговой системы для компании <a href="http://www.voltari.com/" class=link-inside>Voltari (Motricity)">
+<exp_2_title '.NET разработчик в компании <a href="http://www.globallogic.com.ua/">GlobalLogic Украина'>
+<exp_2_descr 'Оптимизация биллинговой системы для компании <a href="http://www.voltari.com/" class=link-inside>Voltari (Motricity)'>
 <used_tech_content_2 "<ul>
                           <li><b>Инструменты:</b> C#, MSMQ</li>
                           <li><b>Контроль версий:</b> SVN </li>
                       </ul>">
 
-<exp_1_title "">
-<exp_1_descr "">
-<used_tech_content_1 "">
+<exp_1_title '.NET разработчик в компании <a href="http://www1.vimas.com/">Vimas
+                                  technologies</a>'>
+<exp_1_descr 'Разработка компонента для наполнения контента для одного из подразделений компании <a
+                                      href="http://www.spx.com/en/" class=link-inside>SPX</a>'>
+<used_tech_content_1 " <ul>
+                           <li><b>Инструменты:</b> C#, Oracle</li>
+                           <li><b>Фреймворки:</b> DevExpress</li>
+                           <li><b>Контроль версий:</b> MS TFS </li>
+                       </ul>">
 
 <skills "Навыки">
 
