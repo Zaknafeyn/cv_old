@@ -16,9 +16,12 @@ a.used_technologies {
 }
 
 .skill_header {
-    text-decoration: underline;
     text-align: left;
     margin: 5px;
+    text-transform: uppercase;
+    color: #C2C1C1;
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-weight: normal;
 }
 
 /*
@@ -218,7 +221,7 @@ section table td p + p {
 }
 
 section table th {
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     padding-bottom: 3.236rem
 }
 
@@ -376,7 +379,6 @@ section.skills table td:first-child, section.skills table th:first-child {
 section.skills table th {
     font-size: 1rem;
     padding: .4045rem 1.618rem 1.618rem;
-    color: #666
 }
 
 section.skills table td:last-child, section.skills table th:last-child {
