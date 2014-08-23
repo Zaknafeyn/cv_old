@@ -15,6 +15,12 @@ a.used_technologies {
     font-size: 11px; font-weight: bold;
 }
 
+.skill_header {
+    text-decoration: underline;
+    text-align: left;
+    margin: 5px;
+}
+
 /*
 div#used_technologies {
     padding: inherit;
