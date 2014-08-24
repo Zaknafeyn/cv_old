@@ -23,6 +23,15 @@ a.used_technologies {
     font-family: 'Open Sans', Arial, sans-serif;
     font-weight: normal;
 }
+/*
+body {
+    background-color: gray;
+}
+
+div.resume {
+   background-color: #ffffff;
+    padding: 20px;
+}*/
 
 /*
 div#used_technologies {
