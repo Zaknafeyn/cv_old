@@ -19,6 +19,14 @@
     border-radius: 5px;
 }
 
+.l-4 {
+    background-color: #000000;
+    display: block;
+    width: 40%;
+    height: 5px;
+    border-radius: 5px;
+}
+
 .l-5 {
     background-color: #000000;
     display: block;
