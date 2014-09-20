@@ -1,5 +1,5 @@
-cv-1
+cv project
 ====
 
-Curriculum vitae - http://vradchuk.info/
+Curriculum vitae - http://cv.vradchuk.info/
 
